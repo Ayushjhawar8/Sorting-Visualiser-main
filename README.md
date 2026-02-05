@@ -113,13 +113,6 @@ We welcome contributions! Before contributing, please read our [Contributing Gui
 
 ---
 
-## 📩 Contact
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/yourprofile)  
-
----
-
 [🔝 Back to Top](#-sorting-visualizer)
 
 🔥 Happy Coding! 🎉
